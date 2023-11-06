@@ -1,0 +1,39 @@
+
+1) Git 	- distributed sourc controle system
+    	- open sourse
+    	- large community
+
+2) Install 	- goto gitforwindows.org 
+		- download the software
+		- install in your system
+
+3) Version Check(command)  	- git version 
+		(output)	- 2.42.0.window.2
+
+4) create GitHub account - gbhargava.gb@gmail.com
+			 - password
+   (Note - github username bhargava2602)
+
+5) create New Repo in GitHub - my_projects  
+   (Note - it is a public repo)
+
+6) Connect GitHub(online) to git(local system) using github credentials
+
+============================================================================
+
+7) Git settings(local settings) - to increase word font
+   - open Git Bash 
+   - right click on header, it will show menu bar
+   - select options section in that menu bar
+   - change font size and click on save button
+============================================================================
+
+8) Git(local Folder) have one folder called it as Git Config - It contains three things
+   	--global (it contains personal info of the user)
+   	--system (other local system user details- means one sytem can be used by multiple persons) 
+	--local  (particular project repo info)
+
+
+
+
+	
